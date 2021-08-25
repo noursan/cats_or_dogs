@@ -6,4 +6,4 @@ Check out my project in this [python jupiter notebook](https://github.com/noursa
 
 The train and test data can be found [here](https://www.kaggle.com/c/dogs-vs-cats/data).
 
-![cat_dog](https://github.com/noursan/cats_or_dogs/blob/main/dogAndCat_sleeping.jpg)
+![cat_dog](https://arkvets.com.au/wp-content/uploads/2017/11/cats_dogs_trimmed_ppt_compress.png)
